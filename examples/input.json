@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "signal-a",
+      "impact": 0.9,
+      "confidence": 0.8,
+      "urgency": 0.7,
+      "evidence": "source:1"
+    },
+    {
+      "id": "signal-b",
+      "impact": 0.6,
+      "confidence": 0.5,
+      "urgency": 0.4,
+      "evidence": ""
+    }
+  ]
+}

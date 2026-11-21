@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Content Intelligence"
+  short_description: "Analyze user-owned or officially exported LinkedIn post data to identify durable topics, format"
+  default_prompt: "Use @linkedin-content-intelligence on my authorized input and return a validated result."
